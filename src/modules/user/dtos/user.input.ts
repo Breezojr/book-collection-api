@@ -1,5 +1,5 @@
 
-export class UserRequestDto {
+export class UserInputDto {
   firstName: string;
   lastName: string;
   email: string;
